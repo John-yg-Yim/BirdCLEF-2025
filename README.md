@@ -1,7 +1,7 @@
 # 🐦 BirdCLEF+2025 - Bird Sound Classification (Kaggle Competition)
 
 This repository contains the final code used in the BirdCLEF+2025 competition,
-where the objective was to classify 206 bird species from 60-second soundscape recordings.
+where the objective was to classify 206 species — primarily birds, but also includes amphibians, mammals, and insects — from 60-second soundscape recordings.
 
 Our best model was trained from scratch using EfficientNetV2 and custom preprocessing,
 and an ensemble version using public NFNet + SE-ResNeXt models achieved Bronze medal-level performance.
